@@ -1,8 +1,9 @@
 ### Olá! Eu sou a Bruna 😉
 
 <div>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brunaCFreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaCFreitas&layout=compact&langs_count=8&theme=dracula"/>
+<a href="https://github.com/brunaCFreitas">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaCFreitas&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunaCFreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -19,6 +20,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.#80068419)
 
- ![Snake animation](https://github.com/brunaCFreitas/brunaCFreitas/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/brunaCFreitas/brunaCFreitas/blob/output/github-contribution-grid-snake.svg)
 
 </div>
