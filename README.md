@@ -1,9 +1,5 @@
 ### Olá! Eu sou a Bruna.
 
-<div align="center">
-  <img  alt="Octocat" src="https://user-images.githubusercontent.com/80068419/184511268-9d415c0d-562f-4529-9179-6d01b4fa855c.png" width="300px">
- </div>
-
 * Estudante de **Análise e Desenvolvimento de Sistemas** na [Cruzeiro do Sul Virtual](https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/).
 
 * Estudante de **Desenvolvimento Web** na [Trybe](https://www.betrybe.com/).
