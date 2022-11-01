@@ -17,7 +17,7 @@ Veja o currículo do curso aqui: [ADS](https://www.cruzeirodosulvirtual.com.br/g
 
 
 
-#### :computer: Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/bruna-freitas-63a295161/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+#### :computer: Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/brucfreitas/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ## Principal Repositório:
 - [Trybe - Exercícios](https://github.com/brunaCFreitas/trybe-exercices).:green_heart:
