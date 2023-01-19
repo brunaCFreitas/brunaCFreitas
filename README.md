@@ -17,7 +17,7 @@ Cursando Técnologo de Análise e Desenvolvimento de Sistemas \
 ### Principal Repositório:
 - [**Trybe - Exercícios**](https://github.com/brunaCFreitas/trybe-exercices).:green_heart:
 
-### Habilidades
+### Habilidades:
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
