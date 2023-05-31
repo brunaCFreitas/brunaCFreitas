@@ -1,5 +1,7 @@
 # Bruna Freitas
 
+Estudante em tempo integral de Tecnologia.
+
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png"/>](https://www.betrybe.com/)
 
 **Trybe** \
