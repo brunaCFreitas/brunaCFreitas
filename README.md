@@ -6,7 +6,7 @@ Estudante em tempo integral de Tecnologia.
 
 **Trybe** \
 [**Trybe**](https://www.betrybe.com/) • Concluído - 09/23\
-Estudante de Desenvolvimento Web \
+Desenvolvedora Web \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.ggpht.com/ytc/AMLnZu-8pSsHkI63Vb4KR0eFM6YbF7oOtZ_u2CQMj0VJFQ=s900-c-k-c0x00ffffff-no-rj"/>](https://www.betrybe.com/)
