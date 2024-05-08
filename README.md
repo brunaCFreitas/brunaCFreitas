@@ -5,14 +5,14 @@ Estudante em tempo integral de Tecnologia.
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png"/>](https://www.betrybe.com/)
 
 **Trybe** \
-[**Trybe**](https://www.betrybe.com/) • Concluído - 09/23\
+[**Trybe**](https://www.betrybe.com/) • Concluído - Setembro/2023\
 Desenvolvedora Web \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.ggpht.com/ytc/AMLnZu-8pSsHkI63Vb4KR0eFM6YbF7oOtZ_u2CQMj0VJFQ=s900-c-k-c0x00ffffff-no-rj"/>](https://www.betrybe.com/)
 
 **Cruzeiro do Sul Virtual** \
-[**Cruzeiro do Sul Virtual**](https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/) • Concluído - 12/23 \
+[**Cruzeiro do Sul Virtual**](https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/) • Concluído - Dezembro/2023\
 Técnologa de Análise e Desenvolvimento de Sistemas \
 <br/>
 
